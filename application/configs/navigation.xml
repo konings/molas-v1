@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configdata>
+	<nav>
+		<home>
+			<label>Home</label>
+			<uri>./page</uri>
+			
+			<pages>
+				<logout>
+					<label>Logout</label>
+					<uri>./logout</uri>
+				</logout>
+			</pages>
+		</home>
+	</nav>
+</configdata>
